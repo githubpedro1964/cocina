@@ -5,15 +5,15 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 <link>http://ignoreme</link>
-<externallink></externallink>
+<externallink>https://raw.githubusercontent.com/githubpedro1964/cocina/master/test1.xml</externallink>
 </item>
  
 <item>
 <title>cocina 2</title>
 <thumbnail></thumbnail>
 <fanart></fanart> 
-<link>http://ignoreme</link> 
-<externallink></externallink>
+<link>http://ignoreme</link>  
+<externallink>https://raw.githubusercontent.com/githubpedro1964/cocina/master/cocina2.xml</externallink>
 </item>
  
 <item>
